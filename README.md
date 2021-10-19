@@ -1,3 +1,3 @@
 # heading
 ## heading 2
-! [mountain] {https://github.com/lilykettle/first_repo/blob/main/mountain.jpg}
+![mountain](https://github.com/lilykettle/first_repo/blob/main/mountain.jpg)
